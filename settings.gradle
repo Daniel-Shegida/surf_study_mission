@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "surf_kotl_mis1"

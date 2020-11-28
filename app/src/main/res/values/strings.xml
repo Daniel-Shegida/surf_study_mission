@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">surf_kotl_mis1</string>
+    <string name="button">войти</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blan1231213 k fragment</string>
+    <string name="error1">войти</string>
+    <string name="error2">войти</string>
+    <string name="passhelper">Пароль должен содержать 6 символов</string>
+</resources>
